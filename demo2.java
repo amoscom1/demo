@@ -3,5 +3,6 @@ class Demo{
 	     System.out.println("This is a demo program.");
 	     System.out.println("Git is very easy to operate"); 
 	     System.out.println("Git learning is sweet");
+	     System.out.println("Git is driving me crazy");
        }	
 }
